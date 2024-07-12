@@ -28,7 +28,8 @@ jobs:
 
         websites = [
             'https://status.chenghua.site',
-            'https://blog.chenghua.site'
+            'https://huacheng5240-uptime-kuma.hf.space',
+            'https://huacheng5240-claude.hf.space'
             # 添加更多网站
         ]
 
